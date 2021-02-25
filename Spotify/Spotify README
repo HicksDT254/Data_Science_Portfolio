@@ -1,12 +1,13 @@
 In this folder you will find various work detailing Spotify's 175,000+ song catalog. Notebooks will consist of a variety of different data analysis both univariate 
 and bivariate. There will also be python notebooks regarding different machine learning techniques and regression analysis.
 
-# Data Set
+Data Set
 This data set consists of over 175,000 songs which was collected from Spotify's Web API. The list of features are below
-#### Primary:
+
+Primary:
 - id (Spotify's generated track id)
 
-#### Numerical:
+Numerical:
  - acousticness (Ranges from 0 to 1)
  - danceability (Ranges from 0 to 1)
  - energy (Ranges from 0 to 1)
@@ -19,11 +20,11 @@ This data set consists of over 175,000 songs which was collected from Spotify's 
  - loudness (How loud the song is measured in decibles)
  - speechiness (Ranges from 0 to 1)
  
- #### Dummy:
+ Dummy:
  - mode (the mode (major/minor) a song was composed in (0 = Minor, 1 = Major)
  - explicit (Whether or not the song had explicit content (0 = Clean, 1 = Explicit Content)
  
- #### Categorical:
+ Categorical:
  - key (All octave keys from C to B coded as 0, 1, ..., 11)
  - artists (Name of artist)
  - release_date (date the track was released in yyyy-mm-dd format)
