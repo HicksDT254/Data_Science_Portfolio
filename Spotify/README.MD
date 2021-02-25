@@ -29,3 +29,8 @@ This data set consists of over 175,000 songs which was collected from Spotify's 
  - artists (Name of artist)
  - release_date (date the track was released in yyyy-mm-dd format)
  - name (Title of the song)
+
+A few things to note about the features
+- liveness is the relative duration of the track as a live performance
+- speechiness is the relative length of the track containing any kind of human voice
+- valence is the relative metric for a song to elicit positive feelings
