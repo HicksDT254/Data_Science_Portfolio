@@ -15,3 +15,6 @@ This data set was taken from Kaggle.com and was scraped from vg.chartz.com. The 
 - Global_Sales: Total world-wide sales in millions
 
 All the sales are represented in millions of U.S. dollars
+
+## Thank You's
+Thank you to all the Kaggle users who posted their notebooks. Your analyses were all wonderful, and gave great insights into when I was stuck.
